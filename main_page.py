@@ -42,7 +42,7 @@ st.write("""
 
 st.subheader("Caveats")
 st.write("""
-    You can check how I built the database in this notebook,
+    You can check how I built the database in the notebook in this [repo](https://github.com/carolinashima/my-oldies-radio/),
     but have in mind that the original file where I stored this information was made
     by hand, i.e. I sat down and typed Album - Artist (Year) so there are typos
     and inconsistencies.
